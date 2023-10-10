@@ -50,6 +50,8 @@ b = 3
 s = area(a, b) = a * b = 6
 p = perimetr(a, b) = (a + b) * 2 = 10
 ```
+
+***
 # Файл square.py
 ```
 def area(a):
@@ -73,6 +75,8 @@ a = 2
 s = area(a) = a * a = 4
 p = perimetr(a) = 4 * a = 8
 ```
+
+***
 # Файл triangle.py
 ```
 def area(a, h):
