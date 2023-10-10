@@ -4,10 +4,10 @@
 ***
 # Файл circle.py
 ```
-def area(r):\
+def area(r):
     return math.pi * r * r
 
-def perimeter(r):\
+def perimeter(r):
     return 2 * math.pi * r  
 ```    
 В функцию area(r) мы передаем значение r - радиус круга -> получаем его площадь  
